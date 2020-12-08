@@ -1,0 +1,1014 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Wubi Pinyin Extended Dictionary(emoji) - 五笔拼音擴充詞庫（表情）
+# 
+# by @lucifr
+# based on https://gist.github.com/lembacon/4593540 & http://www.jianshu.com/p/ef2d9442fb0c
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: wubi_pinyin.emoji
+version: "2015.10.5"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+
+😍	epwq	1
+😘	epwq	1
+💗	epny	1
+💆	rpys	1
+	agjs	1
+👋	rdrd	1
+🙏	rdrt	1
+🏢	lwso	1
+🚼	pgpg	1
+👶	pgpg	1
+🍧	qnui	1
+🐚	mhfp	1
+😭	djwt	1
+😢	djwt	1
+👃	thl	1
+🆚	xx	1
+😒	kfpy	1
+👎	kfpy	1
+😝	ufhv	1
+🎓	xxog	1
+👃	thbb	1
+😠	ufkh	1
+🏪	wtyh	1
+🏪	wtuy	1
+😣	geng	1
+😷	geng	1
+😘	geng	1
+😊	geng	1
+😍	geng	1
+😞	geng	1
+😡	geng	1
+😲	geng	1
+😂	geng	1
+😓	geng	1
+😖	geng	1
+😪	geng	1
+😜	geng	1
+😭	geng	1
+😰	geng	1
+😢	geng	1
+😃	geng	1
+😔	geng	1
+😳	geng	1
+😥	geng	1
+😨	geng	1
+😉	geng	1
+😚	geng	1
+😝	geng	1
+😌	geng	1
+😏	geng	1
+😠	geng	1
+😁	geng	1
+😒	geng	1
+😱	geng	1
+😄	geng	1
+🆎	sffn	1
+🚹	sffn	1
+🚽	sffn	1
+⚡	sffn	1
+🅱	sffn	1
+⚠	sffn	1
+🚺	sffn	1
+♥	sffn	1
+🚾	sffn	1
+♦	sffn	1
+♣	sffn	1
+🔞	sffn	1
+♠	sffn	1
+➿	sffn	1
+🚬	sffn	1
+🚻	sffn	1
+🅾	sffn	1
+🚭	sffn	1
+🅰	sffn	1
+♿	sffn	1
+🚼	sffn	1
+🅿	sffn	1
+🍦	uiuf	1
+🍦	uiis	1
+🌊	bo lang	1
+😠	tgrn	1
+😒	deun	1
+🌈	esja	1
+🐹	wbvn	1
+🍓	ajat	1
+🚾	dmrn	1
+🚽	dmrn	1
+☕	aws	1
+😝	kfga	1
+👕	pupu	1
+💤	ipht	1
+😔	ipln	1
+🏰	fdwk	1
+🏯	fdwk	1
+🍊	swbb	1
+😲	ktny	1
+😱	ktny	1
+💊	ktax	1
+🏄	ukiy	1
+🐛	jhbb	1
+🚽	uics	1
+🚢	temk	1
+🚕	btlg	1
+🚢	lwte	1
+📠	wfsm	1
+🔨	qtgf	1
+🌱	dwgd	1
+💩	ddwg	1
+😭	ddkk	1
+📣	kgkw	1
+🐘	ddqj	1
+😂	ddtt	1
+🈹	rsrr	1
+💉	rsqf	1
+🚲	ujlg	1
+🎂	nhou	1
+🍰	nhou	1
+😓	rjny	1
+🍴	vncy	1
+🌾	tetg	1
+🚇	fbqr	1
+🚃	jnlg	1
+💡	osiq	1
+☎	jnyt	1
+💻	jney	1
+📺	jnpy	1
+📺	jpsm	1
+🎬	jnjy	1
+🎦	jjbp	1
+🆙	ksh	1
+🐛	fctr	1
+🐘	fctr	1
+🐻	fctr	1
+🐒	fctr	1
+🐸	fctr	1
+🐵	fctr	1
+🐯	fctr	1
+🐬	fctr	1
+🐦	fctr	1
+🐠	fctr	1
+🐚	fctr	1
+🐗	fctr	1
+🐔	fctr	1
+🐺	fctr	1
+🐷	fctr	1
+🐴	fctr	1
+🐑	fctr	1
+🐎	fctr	1
+🐱	fctr	1
+🐮	fctr	1
+🐫	fctr	1
+🐨	fctr	1
+🐟	fctr	1
+🐙	fctr	1
+🐹	fctr	1
+🐶	fctr	1
+🐍	fctr	1
+🐳	fctr	1
+🐰	fctr	1
+🐭	fctr	1
+🐧	fctr	1
+🐤	fctr	1
+🆚	cfxx	1
+☁	qqfc	1
+👿	goys	1
+👂	bgh	1
+👂	bgms	1
+🎧	bgsm	1
+💈	ntyy	1
+⛵	mhte	1
+🍅	toal	1
+🍙	qnlf	1
+✈	nusm	1
+🎐	mqqw	1
+🙈	dpqp	1
+🍁	smkf	1
+💑	fwvv	1
+🔰	twkg	1
+〽	twkg	1
+🈵	twkg	1
+㊗	twkg	1
+✴	twkg	1
+➡	twkg	1
+↘	twkg	1
+❕	twkg	1
+🈹	twkg	1
+🆗	twkg	1
+⭐	twkg	1
+🔯	twkg	1
+⭕	twkg	1
+❤	twkg	1
+⬆	twkg	1
+🈚	twkg	1
+🔝	twkg	1
+➿	twkg	1
+㊙	twkg	1
+❗	twkg	1
+🆒	twkg	1
+©	twkg	1
+®	twkg	1
+🈸	twkg	1
+✳	twkg	1
+🈯	twkg	1
+❔	twkg	1
+🈳	twkg	1
+™	twkg	1
+↗	twkg	1
+🆚	twkg	1
+🈷	twkg	1
+❌	twkg	1
+⬅	twkg	1
+🆕	twkg	1
+↙	twkg	1
+🆙	twkg	1
+🔱	twkg	1
+⬇	twkg	1
+🈶	twkg	1
+🆔	twkg	1
+❓	twkg	1
+🈺	twkg	1
+🉐	twkg	1
+↖	twkg	1
+💁	etkm	1
+👢	ebuf	1
+🎩	ebuf	1
+👔	ebuf	1
+👗	ebuf	1
+👠	ebuf	1
+👒	ebuf	1
+👕	ebuf	1
+👘	ebuf	1
+👡	ebuf	1
+👙	ebuf	1
+👜	ebuf	1
+👟	ebuf	1
+👑	ebuf	1
+🍻	fgsg	1
+🍊	sasf	1
+⛳	yqfw	1
+😊	ymiw	1
+😃	ymiw	1
+😄	ymiw	1
+🈹	pdhj	1
+🏭	aadg	1
+🚌	wcuq	1
+✂	aahw	1
+🔔	aahw	1
+🔑	aahw	1
+🔫	aahw	1
+🔨	aahw	1
+🔓	aahw	1
+🔍	aahw	1
+🔒	aahw	1
+⛲	wclf	1
+👸	wcyg	1
+🐗	jfqt	1
+🐶	qtqk	1
+🐶	qtq	1
+💩	qtno	1
+👏	fkip	1
+👾	ncul	1
+🍢	uaft	1
+📢	yyrt	1
+📀	iqte	1
+💿	iqte	1
+😜	rqew	1
+👻	rqew	1
+😄	kwkw	1
+🐚	itjl	1
+🌊	itiy	1
+😱	pdnr	1
+😨	pdnr	1
+🐬	itee	1
+😳	pdud	1
+😓	ifh	1
+😰	ifh	1
+💦	ifh	1
+💦	ifii	1
+👌	vb	1
+🆗	vb	1
+🍀	vbfc	1
+🍱	wgqn	1
+👘	tkeb	1
+😄	ksks	1
+🎏	samh	1
+♠	lfsi	1
+💋	xadf	1
+🍊	xasf	1
+🚥	xxos	1
+🍎	xajs	1
+♥	xasi	1
+🀄	xakh	1
+🐒	qtw	1
+🐵	qtew	1
+🐵	qtbb	1
+🐒	qtbb	1
+🐵	qbew	1
+🐯	haew	1
+💐	awgk	1
+🎿	imfv	1
+👑	rgpf	1
+👑	rgpf	1
+🌆	amqa	1
+💛	amny	1
+💦	rivf	1
+👋	rprt	1
+🔥	ooal	1
+💱	ukrq	1
+🚄	oolg	1
+🚚	wxlg	1
+🚅	oolg	1
+🚉	oluh	1
+🉐	aqtj	1
+⛺	itfc	1
+💅	itfc	1
+🛀	itfc	1
+🗽	itfc	1
+💉	itfc	1
+🀄	itfc	1
+⛲	itfc	1
+🎫	itfc	1
+🎤	itfc	1
+🎨	itfc	1
+🎒	itfc	1
+💊	itfc	1
+🎬	itfc	1
+🎡	itfc	1
+🎥	itfc	1
+🎢	itfc	1
+💄	itfc	1
+🎦	itfc	1
+💈	itfc	1
+⛽	itfc	1
+🚀	ootu	1
+🔥	oooq	1
+🐔	cqy	1
+🐤	cppg	1
+🚑	qflg	1
+📝	ynvi	1
+🎸	fkpx	1
+🍸	cnis	1
+👫	peww	1
+😏	wntt	1
+⛽	lkim	1
+⛽	liuh	1
+😣	mgww	1
+→	tuud	1
+←	tuud	1
+↙	tuud	1
+↗	tuud	1
+↘	tuud	1
+↖	tuud	1
+⬆	tuud	1
+⬇	tuud	1
+⬅	tuud	1
+➡	tuud	1
+🏨	vfta	1
+⛪	vfta	1
+🏬	vfta	1
+🏥	vfta	1
+🏰	vfta	1
+🏩	vfta	1
+🏭	vfta	1
+🏢	vfta	1
+🏦	vfta	1
+🏪	vfta	1
+🏣	vfta	1
+🏧	vfta	1
+🏫	vfta	1
+🏠	vfta	1
+🏯	vfta	1
+👷	vtaw	1
+✂	uebb	1
+🏆	uqsg	1
+😰	wyqv	1
+💊	eugk	1
+⛪	ftip	1
+🚲	uqce	1
+🚅	uqce	1
+🚤	uqce	1
+⛵	uqce	1
+🚧	uqce	1
+🚙	uqce	1
+🚀	uqce	1
+🚑	uqce	1
+🚃	uqce	1
+🚢	uqce	1
+🚶	uqce	1
+🚥	uqce	1
+🚗	uqce	1
+🚉	uqce	1
+🚚	uqce	1
+🚌	uqce	1
+💺	uqce	1
+✈	uqce	1
+🚏	uqce	1
+🚒	uqce	1
+🚄	uqce	1
+🚕	uqce	1
+🚇	uqce	1
+🚓	uqce	1
+🚥	ucsf	1
+🚧	ucsf	1
+🚄	ucah	1
+🚌	ucah	1
+👣	efqg	1
+🔓	qeqi	1
+💏	rukq	1
+💍	aarx	1
+👱	qqnt	1
+💰	qqqg	1
+😓	jcxt	1
+👮	aqpw	1
+🚓	aqlg	1
+⚠	aqtf	1
+🐳	qgqg	1
+😳	lwmv	1
+🏨	isyh	1
+🚑	frlg	1
+🙇	aftm	1
+🍊	sfbb	1
+💃	qeqc	1
+😠	kdkh	1
+😡	kdkh	1
+☕	klkd	1
+🔓	gaqi	1
+😄	gany	1
+🐨	ftru	1
+🐶	skep	1
+🈳	pw	1
+😱	amnd	1
+😷	kklh	1
+😭	kkdu	1
+😢	kkdu	1
+🆒	sgtk	1
+💀	meme	1
+😭	kkiu	1
+😢	kkiu	1
+💨	gaoq	1
+😖	lsak	1
+😪	lswu	1
+🎺	kgkw	1
+🍜	rudm	1
+💩	runo	1
+🏀	tjgf	1
+💙	ajny	1
+🐺	qty	1
+💎	lang man	1
+💙	lang man	1
+💒	lang man	1
+💝	lang man	1
+💋	lang man	1
+💚	lang man	1
+💏	lang man	1
+💓	lang man	1
+💗	lang man	1
+💛	lang man	1
+💐	lang man	1
+💟	lang man	1
+💔	lang man	1
+🌹	lang man	1
+💘	lang man	1
+💍	lang man	1
+💜	lang man	1
+💑	lang man	1
+👵	lao fu ren	1
+🐯	lao hu	1
+🎰	lao hu ji	1
+👵	lao nai nai	1
+👴	lao ren	1
+🐭	lao shu	1
+👴	lao ye ye	1
+😂	lei mu	1
+😓	leng han	1
+😰	leng han	1
+💇	li fa	1
+💈	li fa dian	1
+👒	li mao	1
+🎩	li mao	1
+🎁	li pin	1
+🎏	li yu	1
+🎁	li wu	1
+😳	lian hong	1
+🔔	ling dang	1
+🕕	liu dian zhong	1
+😢	liu lei	1
+😭	liu lei	1
+🌀	long juan feng	1
+🏠	lou fang	1
+📼	lu xiang dai	1
+⛺	lu ying	1
+🐫	luo tuo	1
+🍂	luo ye	1
+🍵	lv cha	1
+🏨	lv gu an	1
+🏨	lv guan	1
+💚	xvny	1
+🐎	cn	1
+🐴	cn	1
+🀄	ysuq	1
+🐴	cnew	1
+🚽	cnsc	1
+⛵	dcud	1
+🈵	iagw	1
+🐱	qtal	1
+🐱	qtew	1
+🐛	ttjh	1
+🎩	mhbb	1
+👒	mhbb	1
+🌹	gtgr	1
+♣	staw	1
+💆	ugpw	1
+📺	vaws	1
+📻	vaws	1
+🍚	oyqn	1
+㊙	tnpn	1
+🌱	amf	1
+🍞	dmqn	1
+🍜	dmts	1
+🐑	xrud	1
+🎯	wgkh	1
+♑	yuyw	1
+🎡	yglw	1
+🐮	xgrh	1
+🎃	fmrc	1
+🎃	frot	1
+👦	llby	1
+👨	llww	1
+🚹	llfg	1
+😠	uyny	1
+🐦	qyng	1
+👧	nv hai	1
+👩	nv ren	1
+🚺	nv shi	1
+🎉	pai dui	1
+👏	pai shou	1
+🏃	pao bu	1
+🍻	peng bei	1
+🍳	peng ren	1
+🍻	pi jiu	1
+🍺	pi jiu	1
+😪	pi lao	1
+🎫	piao ju	1
+🍎	ping guo	1
+💰	qi an	1
+💰	qgt	1
+🕖	aghk	1
+🐧	whtr	1
+💢	rnnf	1
+😡	rnnf	1
+😠	rnnf	1
+👃	kkpn	1
+👀	kkpn	1
+👣	kkpn	1
+👂	kkpn	1
+👄	kkpn	1
+🎈	rngf	1
+💰	qgwa	1
+👫	dprt	1
+🔫	swb	1
+💪	xkuf	1
+🍆	qie zi	1
+😘	qin qin	1
+😚	qin qin	1
+😚	qin wen	1
+💏	qin wen	1
+🎈	qing dian	1
+🎉	qing dian	1
+👫	qing lv	1
+💑	qing lv	1
+☀	qing tian	1
+🐸	qing wa	1
+🎐	qing zhu	1
+🎅	qing zhu	1
+🎉	qing zhu	1
+🎂	qing zhu	1
+🎆	qing zhu	1
+🎑	qing zhu	1
+🎎	qing zhu	1
+🎃	qing zhu	1
+🎇	qing zhu	1
+🎀	qing zhu	1
+🎏	qing zhu	1
+🎄	qing zhu	1
+🎓	qing zhu	1
+🎈	qing zhu	1
+🎁	qing zhu	1
+🍂	qiu tian	1
+👊	quan tou	1
+①	quan yi	1
+②	quan er	1
+③	quan san	1
+④	quan si	1
+⑤	quan wu	1
+⑥	quan liu	1
+⑦	quan qi	1
+⑧	quan ba	1
+⑨	quan jiu	1
+⑩	quan shi	1
+⛽	ran liao	1
+🐠	re dai yu	1
+🍲	re qi teng teng	1
+🌅	ri chu	1
+🌄	ri chu	1
+🎷	sa ke si	1
+🏁	sai che	1
+🔱	san cha ji	1
+◀	san jiao	1
+▶	san jiao	1
+🐚	shan bei	1
+⚡	shan dian	1
+💼	shang ban	1
+👆	shang mian	1
+☎	shang wu	1
+💱	shang wu	1
+📖	shang wu	1
+🐍	she	1
+🎥	she ying ji	1
+🈸	shen	1
+🆔	shen fen	1
+🈸	shen qing	1
+😷	sheng bing	1
+🎅	sheng dan lao ren	1
+🎄	sheng dan shu	1
+✌	sheng li	1
+😠	sheng qi	1
+😡	sheng qi	1
+🎂	sheng ri	1
+🎂	sheng ri dan gao	1
+🔊	sheng yin	1
+🔞	shi ba jin	1
+🖖	shi bo ke	1
+🖖	spock	1
+🚧	ytaa	1
+🕗	jfuj	1
+🕛	jfuj	1
+🕐	jfuj	1
+🕔	jfuj	1
+🕘	jfuj	1
+🕑	jfuj	1
+🕕	jfuj	1
+🕙	jfuj	1
+🕒	jfuj	1
+🕖	jfuj	1
+🕚	jfuj	1
+🕓	jfuj	1
+😌	toqd	1
+😥	rwyn	1
+😞	rwyn	1
+🍱	wytr	1
+🍛	wytr	1
+🍟	wytr	1
+🍣	wytr	1
+🍰	wytr	1
+🍧	wytr	1
+🍚	wytr	1
+🍞	wytr	1
+🍴	wytr	1
+🍢	wytr	1
+🍙	wytr	1
+🍳	wytr	1
+🍦	wytr	1
+🍝	wytr	1
+🍔	wytr	1
+🍡	wytr	1
+🍘	wytr	1
+🍜	wytr	1
+🍲	wytr	1
+☝	wyrx	1
+👋	rt	1
+👐	rt	1
+📱	rtsm	1
+🔫	rtsw	1
+👏	rtrv	1
+🙏	rtrv	1
+👈	rtrv	1
+👌	rtrv	1
+👐	rtrv	1
+🙌	rtrv	1
+👉	rtrv	1
+👍	rtrv	1
+👆	rtrv	1
+☝	rtrv	1
+👊	rtrv	1
+👎	rtrv	1
+👇	rtrv	1
+✌	rtrv	1
+✊	rtrv	1
+✋	rtrv	1
+🖖	rtrv	1
+👋	rtrv	1
+🍣	ybwy	1
+👜	rrqn	1
+🉐	nhuw	1
+📻	nusm	1
+🎒	nnqn	1
+🐨	swce	1
+🐭	vnew	1
+💤	ybht	1
+♓	cqyw	1
+👐	ccip	1
+♊	cbyw	1
+🌾	iite	1
+🍓	iijs	1
+🍅	iijs	1
+🍉	iijs	1
+🍆	iijs	1
+🍊	iijs	1
+🍎	iijs	1
+💤	htip	1
+😪	htip	1
+🎀	xxgk	1
+😔	lnft	1
+🍀	lkaj	1
+🔍	rvfp	1
+🔒	qim	1
+🎱	ckgf	1
+☀	dybj	1
+🍜	indm	1
+💨	iqyb	1
+🉐	trww	1
+🌀	gdrn	1
+⛄	gdrn	1
+🌂	gdrn	1
+☀	gdrn	1
+☔	gdrn	1
+☁	gdrn	1
+👼	gdwg	1
+👼	gwpp	1
+✨	gdyy	1
+🌟	gdyy	1
+🌙	gdyy	1
+💃	khrl	1
+👿	ujyt	1
+👸	ujyt	1
+📡	ceyn	1
+💀	udme	1
+👾	udwq	1
+💁	udwq	1
+🙅	udwq	1
+👳	udwq	1
+💇	udwq	1
+👶	udwq	1
+👨	udwq	1
+👼	udwq	1
+👿	udwq	1
+👮	udwq	1
+💂	udwq	1
+👱	udwq	1
+🙆	udwq	1
+👴	udwq	1
+👦	udwq	1
+👷	udwq	1
+👩	udwq	1
+👽	udwq	1
+💀	udwq	1
+👯	udwq	1
+👲	udwq	1
+💃	udwq	1
+🙇	udwq	1
+👵	udwq	1
+💆	udwq	1
+👸	udwq	1
+👧	udwq	1
+👻	udwq	1
+🐰	qkew	1
+👯	qvyv	1
+🐰	qkbb	1
+👽	qjww	1
+🎾	mqgf	1
+🖖	gnhe	1
+💂	bgrg	1
+🚻	btuj	1
+😃	tmtt	1
+😄	tmtt	1
+😁	tmtt	1
+♨	ijri	1
+🈚	fq	1
+🐌	jkrh	1
+😄	ttd	1
+😊	ttd	1
+🐤	ihcq	1
+👠	afff	1
+👟	afff	1
+🍉	sgrc	1
+🍅	sxsy	1
+😍	fkcq	1
+💓	fkcq	1
+😄	kfkf	1
+😁	kfkf	1
+🚬	keol	1
+🌇	qtbj	1
+🛀	itik	1
+👇	ghdm	1
+🌵	wwip	1
+🐘	qje	1
+💡	shif	1
+📷	shsm	1
+🔔	ktqw	1
+🌻	tjaw	1
+😊	ttd	1
+😄	ttd	1
+🚒	iblg	1
+🐶	ihqt	1
+🐤	ihcq	1
+😊	ttew	1
+😃	ttew	1
+🐦	ihqy	1
+😄	ttut	1
+🐷	ihqt	1
+👠	afff	1
+👟	afff	1
+❤	ny	1
+🆕	usr	1
+💢	nyng	1
+💦	nyng	1
+💪	nyng	1
+💣	nyng	1
+💤	nyng	1
+💨	nyng	1
+💩	nyng	1
+💔	nydy	1
+💼	wyth	1
+📣	wyth	1
+📀	wyth	1
+🔊	wyth	1
+💻	wyth	1
+📴	wyth	1
+📫	wyth	1
+📢	wyth	1
+💿	wyth	1
+📼	wyth	1
+📳	wyth	1
+📝	wyth	1
+📷	wyth	1
+📮	wyth	1
+📡	wyth	1
+📻	wyth	1
+📲	wyth	1
+📩	wyth	1
+📠	wyth	1
+💽	wyth	1
+📶	wyth	1
+📺	wyth	1
+📱	wyth	1
+📫	wyts	1
+💟	nyga	1
+🌙	usee	1
+🌃	jtpw	1
+🚶	tfww	1
+🌟	jtjt	1
+✨	jtjt	1
+🍀	fufc	1
+⛎	jtyw	1
+♒	jtyw	1
+♓	jtyw	1
+♐	jtyw	1
+♑	jtyw	1
+♏	jtyw	1
+♍	jtyw	1
+♎	jtyw	1
+♌	jtyw	1
+♊	jtyw	1
+♋	jtyw	1
+♈	jtyw	1
+♉	jtyw	1
+👉	tmdk	1
+👈	tmda	1
+🐻	cexo	1
+🍦	fvou	1
+⛄	fvww	1
+🏫	ipsu	1
+👀	hve	1
+🎇	olaw	1
+🎆	olaw	1
+🎇	oqoo	1
+🎆	oqoo	1
+👀	hvhg	1
+🐑	udj	1
+🔑	qejg	1
+💊	axvy	1
+⛺	jfap	1
+🐗	jfqt	1
+🍃	kfbb	1
+👔	yeeb	1
+👗	yeeb	1
+💘	gmqn	1
+💉	atub	1
+💊	atub	1
+🈵	nnia	1
+😖	xtuk	1
+🏥	atbp	1
+🎶	ujtw	1
+🎵	ujtw	1
+🏦	qvtf	1
+🎸	ujqi	1
+🎵	ujqi	1
+🎺	ujqi	1
+🎷	ujqi	1
+🎶	ujqi	1
+🎧	ujqi	1
+🎤	ujqi	1
+🈺	apk	1
+🚼	mmqt	1
+👶	mmqt	1
+🌸	smaw	1
+🍒	smsi	1
+🈶	def	1
+👉	dklp	1
+🚃	dljl	1
+🏣	mbnn	1
+👻	xxvo	1
+📮	mbtm	1
+🎰	iyca	1
+📮	mbts	1
+🏊	iyiy	1
+🐠	qgf	1
+🐟	qgf	1
+🈯	cbys	1
+🈷	eee	1
+🌷	dqtj	1
+🎤	vkqi	1
+🎢	vkqi	1
+☔	fgwu	1
+🌂	fgwu	1
+⭕	lklu	1
+🈷	月	1
+🌙	eeyp	1
+🏆	fcfc	1
+🏊	fcfc	1
+🎿	fcfc	1
+🏃	fcfc	1
+🏀	fcfc	1
+🏄	fcfc	1
+🏈	fcfc	1
+🏁	fcfc	1
+⛳	fcfc	1
+⚽	fcfc	1
+⚾	fcfc	1
+🎾	fcfc	1
+👋	gmmq	1
+👍	tfqm	1
+💣	otxu	1
+😜	hthv	1
+😉	hthv	1
+⛺	mhtt	1
+👏	ipfn	1
+🐙	ujqg	1
+📷	jssm	1
+🍜	gkdp	1
+💅	rlim	1
+🌴	sftr	1
+🍁	sftr	1
+🌸	sftr	1
+🍀	sftr	1
+🌷	sftr	1
+🌻	sftr	1
+🍃	sftr	1
+🎍	sftr	1
+🌺	sftr	1
+🌾	sftr	1
+🍂	sftr	1
+🌵	sftr	1
+🌹	sftr	1
+🏁	xthk	1
+☔	cbfg	1
+🐗	qtfj	1
+🐷	qtew	1
+🐷	qtew	1
+💉	itkk	1
+🐷	qtud	1
+🏠	wpso	1
+🎱	hjgf	1
+🌇	thqd	1
+🌆	thqd	1
+🌊	thqd	1
+🌅	thqd	1
+🌄	thqd	1
+🌈	thqd	1
+🌃	thqd	1
+💜	hxny	1
+🚲	ttlg	1
+🗽	tmvp	1
+👣	khyo	1
+⚽	khgf	1
+💎	qhdg	1
+👄	khx	1
+👄	khcn	1
+👈	dalp	1
+💺	ywwu	1

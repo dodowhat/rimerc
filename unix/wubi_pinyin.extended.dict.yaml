@@ -1,0 +1,42 @@
+# Rime dictionary: wubi
+# encoding: utf-8
+#
+---
+name: wubi_pinyin.extended
+version: "0.7"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+
+import_tables:
+  - wubi86
+  - wubi_pinyin.emoji
+...
+
+😂️	zzbq	900
+😅️	zzbq	900
+☺️	zzbq	900
+😱️	zzbq	900
+😭️	zzbq	900
+😇️	zzbq	900
+🙃️	zzbq	900
+🤔️	zzbq	900
+💊️	zzbq	880
+💯️	zzbq	800
+👍️	zzbq	850
+🙈️	zzbq	900
+💩️	zzbq	800
+😈️	zzbq	700
