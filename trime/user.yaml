@@ -1,5 +1,0 @@
-var:
-  option:
-    ascii_punct: false
-    full_shape: false
-    simplification: true
