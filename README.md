@@ -19,12 +19,10 @@
 
 ## 依赖
 
-本项目必须与下列项目一同使用
-
-### 官方基础配置
-
-[https://github.com/rime/rime-prelude](https://github.com/rime/rime-prelude)
-
-### 袖珍简化字拼音
+### 袖珍简化字拼音(全平台需要)
 
 [https://github.com/rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp)
+
+### 官方基础配置(Trime/iRime需要)
+
+[https://github.com/rime/rime-prelude](https://github.com/rime/rime-prelude)
