@@ -2,6 +2,8 @@
 
 [Rime](https://rime.im) 输入法引擎开箱即用配置
 
+内含个人定制的极简版五笔98输入方案，拼音反查依赖 `袖珍简化字拼音`
+
 ## 各平台配置文件路径
 
 - Android
@@ -15,14 +17,14 @@
 - Windows
   - [Weasel](https://github.com/rime/weasel): %AppData%\Rime
 
-## 输入方案
+## 依赖
+
+本项目必须与下列项目一同使用
+
+### 官方基础配置
+
+[https://github.com/rime/rime-prelude](https://github.com/rime/rime-prelude)
 
 ### 袖珍简化字拼音
 
 [https://github.com/rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp)
-
-### 五笔98极简
-
-个人定制的简单版五笔98输入方案
-
-拼音反查依赖 `袖珍简化字拼音`
