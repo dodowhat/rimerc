@@ -9,6 +9,9 @@
 - Android
   - [Trime](https://github.com/osfans/trime): /storage/emulated/0/rime
 
+- iOS
+  - [iRime](https://itunes.apple.com/cn/app/irime-shu-ru-fa/id1142623977?l=en&mt=8)
+
 - *nix
   - [Fcitx](https://github.com/fcitx/fcitx-rime): ~/.config/fcitx/rime (Recommanded)
   - [IBus](https://github.com/rime/ibus-rime): ~/.config/ibus/rime
